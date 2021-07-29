@@ -1,0 +1,12 @@
+main: com.company.Main
+name: Needs
+version: 1.0
+api-version: 1.14
+
+commands:
+  gm0:
+    description: survival mode
+  gm1:
+    description: creative mode
+  gm2:
+    description: spectator mode

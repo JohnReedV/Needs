@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Needs">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Needs.jar">
+      <element id="module-output" name="Needs" />
+    </root>
+  </artifact>
+</component>
