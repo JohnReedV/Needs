@@ -10,3 +10,5 @@ commands:
     description: creative mode
   gm2:
     description: spectator mode
+  sugma:
+    description: sugma
